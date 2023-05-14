@@ -1,5 +1,4 @@
 # ecommerce.github.io
-Features:
 The eCommerce website offers the following features:
 1. Responsive design that works on desktop and mobile devices
 2. Product search functionality
